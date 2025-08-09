@@ -1,6 +1,6 @@
 {
   "pack": {
-    "description": "Glide Boost enchantment for the harness that allows sprinting on happy ghasts",
+    "description": "Tailwind enchantment for the harness that allows sprinting on happy ghasts",
     "pack_format": 81,
     "supported_formats": {
       "min_inclusive": 80,
