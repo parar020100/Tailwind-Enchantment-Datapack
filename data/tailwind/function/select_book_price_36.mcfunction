@@ -1,5 +1,3 @@
-function tailwind:randomize_tailwind_trade
-
 #tellraw @a select_book_price36
 
 $execute if score @s tailwind_price matches 0 run function tailwind:append_trade_book {tw_price: 32, tw_level: "$(tw_level)"}

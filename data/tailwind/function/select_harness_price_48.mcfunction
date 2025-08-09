@@ -1,5 +1,3 @@
-function tailwind:randomize_tailwind_trade
-
 #tellraw @a select_harness_price48
 
 $execute if score @s tailwind_price matches 0 run function tailwind:append_trade_harness {tw_price: 44, tw_level: "$(tw_level)", tw_color: "$(tw_color)"}

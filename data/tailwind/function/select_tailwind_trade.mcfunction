@@ -1,8 +1,4 @@
-tag @s add has_tailwind_trade
-
-function tailwind:randomize_tailwind_trade
-
-#tellraw @a add_tailwind_trade
+#tellraw @a select_tailwind_trade
 
 execute if score @s tailwind_color matches 0 run function tailwind:select_harness_level {tw_color: "white"}
 execute if score @s tailwind_color matches 1 run function tailwind:select_harness_level {tw_color: "light_gray"}
@@ -20,13 +16,6 @@ execute if score @s tailwind_color matches 12 run function tailwind:select_harne
 execute if score @s tailwind_color matches 13 run function tailwind:select_harness_level {tw_color: "purple"}
 execute if score @s tailwind_color matches 14 run function tailwind:select_harness_level {tw_color: "magenta"}
 execute if score @s tailwind_color matches 15 run function tailwind:select_harness_level {tw_color: "pink"}
-execute if score @s tailwind_color matches 16 run function tailwind:select_book_level
-execute if score @s tailwind_color matches 17 run function tailwind:select_book_level
-execute if score @s tailwind_color matches 18 run function tailwind:select_book_level
-execute if score @s tailwind_color matches 19 run function tailwind:select_book_level
-execute if score @s tailwind_color matches 20 run function tailwind:select_book_level
-execute if score @s tailwind_color matches 21 run function tailwind:select_book_level
+execute if score @s tailwind_color matches 16..21 run function tailwind:select_book_level
 
-
-
-
+#tellraw @a select_tailwind_trade_end

@@ -1,7 +1,7 @@
 {
     "description": "Tailwind",
-    "supported_items": "#harnesses",
-    "primary_items": "#harnesses",
+    "supported_items": "#minecraft:harnesses",
+    "primary_items": "#minecraft:harnesses",
     "slots": ["body"],
     "weight": 10,
     "anvil_cost": 1,
