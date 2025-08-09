@@ -43,8 +43,9 @@ Put the datapack file into your `datapacks/` folder inside your Minecraft world 
 Then reload the datapacks with the command `/reload` in the game or restart the world.  
 
 
-## Credits
+## Credits & links:
 
+GitHub: https://github.com/parar020100/Tailwind-Enchantment-Datapack  
 Made by Artiom Parygin (parar020100)  
 License: MIT  
 
@@ -97,7 +98,8 @@ License: MIT
 Поместите файл датапака в папку datapacks/ внутри папки с сохранением вашего мира Minecraft.  
 Затем обновите датапаки командой /reload в игре или перезапустите мир.
 
-## Авторство
+## Авторство и ссылки
 
+GitHub: https://github.com/parar020100/Tailwind-Enchantment-Datapack  
 Автор - Артём Парыгин (parar020100)  
 Лицензия: MIT
