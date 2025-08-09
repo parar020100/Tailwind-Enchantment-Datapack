@@ -1,6 +1,6 @@
 # Tailwind Enchantment
 
-Is your happy ghast too slow?
+Is your happy ghast too slow?  
 This datapack allows to speed up happy ghasts in a balanced, non-game-breaking way!
 
 ## How does it work?
@@ -20,7 +20,7 @@ The datapack is fully compatible to the [Speedy Flying Mobs Datapack](https://mo
 
 ## How to obtain
 
-The enchantment can be obtained by trading with a **master leatherworker villager**.
+The enchantment can be obtained by trading with a **master leatherworker villager**.  
 Once the leatherworker reaches level 5, *two additional trades* will be added to its list.  
 
 Each trade can be:
@@ -39,30 +39,30 @@ The prices are celected randomly according to enchantment levels
 
 ## Installation
 
-Put the datapack file into your `datapacks/` folder inside your Minecraft world save directory.
-Then reload the datapacks with the command `/reload` in the game or restart the world.
+Put the datapack file into your `datapacks/` folder inside your Minecraft world save directory.  
+Then reload the datapacks with the command `/reload` in the game or restart the world.  
 
 
 ## Credits
 
-Made by Artiom Parygin (parar020100)
-License: MIT
+Made by Artiom Parygin (parar020100)  
+License: MIT  
 
 
   
 
-  
+
 ---
 
 # Зачарование "Попутный ветер"
 
-Твой счастливый гаст слишком медленный?
-Этот датапак позволяет ускорить радостных гастов, не ломая баланс и механики игры!
+Твой счастливый гаст слишком медленный?  
+Этот датапак позволяет ускорить радостных гастов, не ломая баланс и механики игры!  
 
 ## Как это работает?
-Вместо изменения скорости по-умолчанию, датапак добавляет зачарование «Попутный ветер» для упряжи.
+Вместо изменения скорости по-умолчанию, датапак добавляет зачарование «Попутный ветер» для упряжи.  
 
-Зачарование немного повышает базовую скорость гаста, а также позволяет ускоряться во время полёта при нажатой **клавише бега** (по умолчанию: `ctrl`).
+Зачарование немного повышает базовую скорость гаста, а также позволяет ускоряться во время полёта при нажатой **клавише бега** (по умолчанию: `ctrl`).  
 
 * **Без зачарования** — обычная скорость (3.6 б/с), спринт невозможен
 * **Попутный ветер I** — +1% скорости (3.68 б/с), +10% ускорения со спринтом (4.45 б/с)
@@ -74,7 +74,7 @@ License: MIT
 Датапак полностью совместим с датапаком [Speedy Flying Mobs](https://modrinth.com/datapack/speedy-flying-mobs), позволяющий использовать зелья стремительности на счастливых гастов.
 
 # Как получить
-Зачарование можно получить у жителя-кожевника уровня "мастер".
+Зачарование можно получить у жителя-кожевника уровня "мастер".  
 После того как кожевник достигнет 5 уровня, в его список торгов добавятся два дополнительных предложения.
 
 Новые предложения выбираются случайно из списка:
@@ -94,10 +94,10 @@ License: MIT
 
 ## Установка
 
-Поместите файл датапака в папку datapacks/ внутри папки с сохранением вашего мира Minecraft.
+Поместите файл датапака в папку datapacks/ внутри папки с сохранением вашего мира Minecraft.  
 Затем обновите датапаки командой /reload в игре или перезапустите мир.
 
 ## Авторство
 
-Автор - Артём Парыгин (parar020100)
+Автор - Артём Парыгин (parar020100)  
 Лицензия: MIT
