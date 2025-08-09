@@ -1,5 +1,5 @@
 {
-    "description": "Tailwind",
+    "description": "Попутный ветер",
     "supported_items": "#minecraft:harnesses",
     "primary_items": "#minecraft:harnesses",
     "slots": ["body"],
