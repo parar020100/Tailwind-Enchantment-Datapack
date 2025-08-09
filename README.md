@@ -3,6 +3,16 @@
 Is your happy ghast too slow?  
 This datapack allows to speed up happy ghasts in a balanced, non-game-breaking way!
 
+## Balancing
+
+The speed of happy ghasts is questioned by many players, and many solutions are being made.
+This enchantment offers more effecient way of travelling than walking in a balanced way.  
+  
+It was important for me to make this datapack balanced with vanilla features.  
+For that reason, I ensured that the friendly ghasts do not overshadow other means of transport, like horses (which are still faster).  
+  
+Unlike other datapacks and mods, this one does not change the default behaviour of the harness (keeping the vanilla default speed). The boost isn't presented at the start of the game, and the player will have to to put effort for getting a better option. It was designed specifically so that the best option would not be easy to obtain.  
+
 ## How does it work?
 
 Instead of changing the speed by default, the datapack adds an optional Tailwind enchantment for the harness.  
@@ -46,6 +56,7 @@ Then reload the datapacks with the command `/reload` in the game or restart the 
 ## Credits & links:
 
 GitHub: https://github.com/parar020100/Tailwind-Enchantment-Datapack  
+Modrinth: https://modrinth.com/datapack/tailwind-enchantment  
 Made by Artiom Parygin (parar020100)  
 License: MIT  
 
@@ -59,6 +70,16 @@ License: MIT
 
 Твой счастливый гаст слишком медленный?  
 Этот датапак позволяет ускорить радостных гастов, не ломая баланс и механики игры!  
+
+## Баланс игры
+
+Скорость счастливых гастов не устраивает многих игроков, и для данной проблемы создаётся много решений.  
+Это зачарование создаёт более эффективный способ передвижения, чем пешком, не нарушая баланса игры.  
+  
+Для меня было важно сделать этот датапак сбалансированным и не портящим возможности ванильной игре.  
+Для этого я убедился, что дружелюбные гасты не имеют сильного преимущества перед другими средствами передвижения, к примеру, лошадьми (которые всё ещё быстрее).  
+  
+В отличие от других датапаков и модов, этот не меняет поведение упряжи по умолчанию (сохраняя ванильную скорость по-умолчанию). Ускорение не доступно в начале игры, и игроку придётся приложить усилия, чтобы получить самый лучший вариант. Датапак специально был создан таким, чтобы лучший вариант было нелегко получить.
 
 ## Как это работает?
 Вместо изменения скорости по-умолчанию, датапак добавляет зачарование «Попутный ветер» для упряжи.  
@@ -101,5 +122,6 @@ License: MIT
 ## Авторство и ссылки
 
 GitHub: https://github.com/parar020100/Tailwind-Enchantment-Datapack  
+Modrinth: https://modrinth.com/datapack/tailwind-enchantment  
 Автор - Артём Парыгин (parar020100)  
 Лицензия: MIT
